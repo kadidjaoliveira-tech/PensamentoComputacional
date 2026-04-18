@@ -45,9 +45,9 @@ Não há requisitos técnicos obrigatórios. Algumas atividades podem exigir:
 
 Contribuições são bem-vindas! Você pode:
 
-* Sugerir novas atividades
-* Melhorar instruções existentes
-* Corrigir erros ou inconsistências
+* Sugerir novas atividades,
+* Melhorar instruções existentes,
+* Corrigir erros ou inconsistências.
 
 ## 📄 Licença
 
